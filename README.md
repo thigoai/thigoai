@@ -1,4 +1,4 @@
-# Oi, meu nome é Thiago! 
+# Olá!
 Estudante da UFRN, interessado em pesquisa acadêmica e desenvolvimento de software. Já perdi as contas de quantas vezes fiz o jogo da cobrinha.  
 
 ## 📊 Estatísticas do GitHub  
