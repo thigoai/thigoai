@@ -2,6 +2,8 @@
 Estudante da UFRN, interessado em pesquisa acadêmica e desenvolvimento de software. Já perdi as contas de quantas vezes fiz o jogo da cobrinha.  
 
 ## 📊 Estatísticas do GitHub  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thigoai&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thigoai&layout=compact&theme=radical)
 
 ---
