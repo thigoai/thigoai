@@ -1,9 +1,6 @@
 # Olá!
 Estudante da UFRN, interessado em tinyML e jogo da cobrinha.  
 
-## 📊 Estatísticas do GitHub  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thigoai&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thigoai&layout=compact&theme=radical)
 
 ---
