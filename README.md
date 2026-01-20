@@ -13,4 +13,4 @@ Estudante da **UFRN** (Universidade Federal do Rio Grande do Norte), entusiasta 
 
 ### ✉️ Contato
 - 📧 **Email:** [tfreire352@gmail.com](mailto:tfreire352@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/TEU_PERFIL](https://www.linkedin.com/in/thiago-f-50782221a/)
+- 💼 **LinkedIn:** [linkedin.com/in/thiago-f](https://www.linkedin.com/in/thiago-f-50782221a/)
