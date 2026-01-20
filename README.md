@@ -5,7 +5,7 @@
 </div>
 
 ### Acadêmico & Desenvolvedor
-Estudante da **UFRN** (Universidade Federal do Rio Grande do Norte), entusiasta de **IoT, Embarcados, tinyML e jogo da cobrinha**.
+Estudante de **TI** na **UFRN** (Universidade Federal do Rio Grande do Norte), entusiasta de **IoT, Embarcados, tinyML e jogo da cobrinha**.
 
 - **🛠:** C/C++, Python, TensorFlow Lite, Arduino/ESP32.
   
