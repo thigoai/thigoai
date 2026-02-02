@@ -1,7 +1,7 @@
 # Olá!
 
-<div align="high">
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="200" alt="Robot Arm GIF"/>
+<div align="center">
+  <img src="https://media1.tenor.com/m/3AQDvhSiPpMAAAAC/dog-hacker.gif" width="200" alt="Robot Arm GIF"/>
 </div>
 
 ## 🎓 Acadêmico & Desenvolvedor
@@ -11,7 +11,7 @@
 ## 🌱 Atualmente trabalhando em:
 - Projeto de Visão Computacional e Monitoramento de Atividades Físicas (MediaPipe/OpenCV).
 
-## 🛠️ Toolbox Técnica
+## 🛠️ Ferramentas
 
 | Categoria | Tecnologias |
 | :--- | :--- |
