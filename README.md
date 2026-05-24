@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=100000&color=36D256&background=1BFEFF00&repeat=false&width=435&lines=welcome)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&pause=10000&color=36D256&background=1BFEFF00&vCenter=true&width=435&lines=welcome)](https://git.io/typing-svg)
 <div align="center">
   <img src="https://media1.tenor.com/m/3AQDvhSiPpMAAAAC/dog-hacker.gif" width="200" alt="Robot Arm GIF"/>
 </div>
